@@ -29,7 +29,7 @@ python train_student.py --project_name stu_sims_1111 --teacher_project_name sims
 
 ## Citation
 
-- [Towards Robust Multimodal Sentiment Analysis with Incomplete Data](https://arxiv.org/abs/2409.20012)
+- [Improving Task-Specific Multimodal Sentiment Analysis with General MLLMs via Prompting](https://openreview.net/pdf?id=PBy1Ew1ihV)
 
 Please cite our paper if you find our work useful for your research:
 ```
